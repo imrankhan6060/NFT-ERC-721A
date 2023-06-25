@@ -1,0 +1,19 @@
+{
+  "name": "NFT Friends #2",
+  "description": "A serene and picturesque scene of a man fishing in the mountains at sunset.",
+  "image": "ipfs://QmYdyp6432QSDXyGUqp2kS4Hdq6CbohsVSCcSLjnNB9kAx",
+  "attributes": [
+    {
+      "trait_type": "Scene",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Fishing"
+    },
+    {
+      "trait_type": "Time",
+      "value": "Sunset"
+    }
+  ]
+}

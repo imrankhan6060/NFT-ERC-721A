@@ -1,0 +1,19 @@
+{
+  "name": "NFT Friends #9",
+  "description": "A serene and picturesque scene of a man fishing in the mountains at sunset.",
+  "image": "ipfs://QmVrb24vGvTJvfdyAPEph3EPebqGwxEbCZEhdHRnmTkEJ5",
+  "attributes": [
+    {
+      "trait_type": "Scene",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Fishing"
+    },
+    {
+      "trait_type": "Time",
+      "value": "Sunset"
+    }
+  ]
+}
